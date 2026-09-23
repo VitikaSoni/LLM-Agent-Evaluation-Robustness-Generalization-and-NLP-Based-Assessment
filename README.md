@@ -87,8 +87,6 @@ No statistically significant difference in lexical similarity was detected acros
 - Results should not be interpreted as estimates of real-world failure frequencies or production-agent reliability.
 ## Dataset Source
 
-This project uses the [AI Agent Failure Benchmark Dataset](https://www.kaggle.com/datasets/sunil123kumar/ai-agent-failure-benchmark-dataset) created by Sunil Kumar and published on Kaggle.
-
 - Dataset size: 1,500 synthetic examples
 - Domains: Coding, Mathematics, RAG/QA, Planning, Customer Support
 - Failure categories: 12
@@ -96,6 +94,9 @@ This project uses the [AI Agent Failure Benchmark Dataset](https://www.kaggle.co
 - Raw dataset: Not redistributed in this repository
 
 This project focuses on independent analysis and evaluation of the dataset, including duplicate-controlled testing, NLP classification, cross-domain generalization, feature ablation, error analysis, and statistical analysis.
+
+This project uses the [AI Agent Failure Benchmark Dataset](https://www.kaggle.com/datasets/sunil123kumar/ai-agent-failure-benchmark-dataset) created by Sunil Kumar and published on Kaggle.
+
 
 ## Reproducibility
 
